@@ -1,4 +1,4 @@
-FROM python:3.9-alpine3.13
+FROM python:3.10.6-alpine3.15
 LABEL maintainer="isaacGuiotto"
 
 ENV PYTHONUNBUFFERED 1
